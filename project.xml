@@ -1,11 +1,11 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appID="DoctorVet"> 
-        <version>3.0.0.0</version> 
+        <version>3.1.0.0</version> 
         <url>https://github.com/WebSallyOne/DoctorVet/raw/CurrentVersion/DoctorVet.exe</url> 
         <fileName>DoctorVet.exe</fileName> 
-        <md5>637492CA405B96E2C87C8547AA386971</md5>
-        <description>First version</description> 
+        <md5>80146521915FBC65B965945EE2D8C83F</md5>
+        <description>Добавлен новый функционал</description> 
         <launchArgs></launchArgs> 
     </update> 
 </sharpUpdate>
