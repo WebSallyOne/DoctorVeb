@@ -1,11 +1,11 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appID="DoctorVet"> 
-        <version>3.1.0.0</version> 
+        <version>1.0.0.0</version> 
         <url>https://github.com/WebSallyOne/DoctorVet/raw/CurrentVersion/DoctorVet.exe</url> 
         <fileName>DoctorVet.exe</fileName> 
-        <md5>80146521915FBC65B965945EE2D8C83F</md5>
-        <description>Добавлен новый функционал</description> 
+        <md5>937633fc3ad3c8ebaa3195709e09e0b7</md5>
+        <description>Добавлена возможность добавлять клиентов и их питомцев</description> 
         <launchArgs></launchArgs> 
     </update> 
 </sharpUpdate>
