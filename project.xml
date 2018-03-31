@@ -4,7 +4,7 @@
         <version>1.2.0.0</version> 
         <url>https://github.com/WebSallyOne/DoctorVet/raw/CurrentVersion/DoctorVet.exe</url> 
         <fileName>DoctorVet.exe</fileName> 
-        <md5>ef62a2381059c9acc2676c6446d13a79</md5>
+        <md5>66566e391e95ac9a7e0677c497b84d1e</md5>
         <description>Теперь поля "Адрес" и "Телефон" не являются обязательными при создании/редактировании клиента. Имя и отчество клиента теперь можно указывать инициалами (буква и точка). Дата рождения животного заменена на текущий возраст (года, месяцы), который будет автоматически меняться начиная с момента указывания возраста.</description> 
         <launchArgs></launchArgs> 
     </update> 
