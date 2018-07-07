@@ -1,11 +1,11 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appID="DoctorVet"> 
-        <version>1.3.0.0</version> 
+        <version>1.4.0.0</version> 
         <url>https://github.com/WebSallyOne/DoctorVet/raw/CurrentVersion/DoctorVet.exe</url> 
         <fileName>DoctorVet.exe</fileName> 
-        <md5>cf515b09532850f283297771b8c25def</md5>
-        <description>Новое обновление.</description> 
+        <md5>25a8448f75d82026d662482a1e9ffb50</md5>
+        <description>Теперь можно создавать новые приёмы без дозаполнения.</description> 
         <launchArgs></launchArgs> 
     </update> 
 </sharpUpdate>
