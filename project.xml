@@ -4,8 +4,8 @@
         <version>1.4.0.0</version> 
         <url>https://github.com/WebSallyOne/DoctorVet/raw/CurrentVersion/DoctorVet.exe</url> 
         <fileName>DoctorVet.exe</fileName> 
-        <md5>25a8448f75d82026d662482a1e9ffb50</md5>
-        <description>Теперь можно создавать новые приёмы без дозаполнения.</description> 
+        <md5>4c38e613303e88b8a01e1bbc1e688c86</md5>
+        <description>Изменён внешний вид админ панели.</description> 
         <launchArgs></launchArgs> 
     </update> 
 </sharpUpdate>
