@@ -4,7 +4,7 @@
         <version>1.5.0.0</version> 
         <url>https://github.com/WebSallyOne/DoctorVet/raw/CurrentVersion/DoctorVet.exe</url> 
         <fileName>DoctorVet.exe</fileName> 
-        <md5>873421949240762fc7735d4a9a74fe7f</md5>
+        <md5>1c9442941631b110b884c4dc8fe12703</md5>
         <description>Теперь можно редактировать медикаменты вручную. Можно создавать приёмы без каких-либо ограничений.</description> 
         <launchArgs></launchArgs> 
     </update> 
