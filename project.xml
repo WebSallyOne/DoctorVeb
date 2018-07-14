@@ -1,10 +1,10 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appID="DoctorVet"> 
-        <version>1.5.0.0</version> 
+        <version>1.6.0.0</version> 
         <url>https://github.com/WebSallyOne/DoctorVet/raw/CurrentVersion/DoctorVet.exe</url> 
         <fileName>DoctorVet.exe</fileName> 
-        <md5>1c9442941631b110b884c4dc8fe12703</md5>
+        <md5>db10260a346f7dc0026c92e82d07c12a</md5>
         <description>Теперь можно редактировать медикаменты вручную. Можно создавать приёмы без каких-либо ограничений.</description> 
         <launchArgs></launchArgs> 
     </update> 
