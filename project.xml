@@ -1,11 +1,11 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appID="DoctorVet"> 
-        <version>1.8.0.0</version> 
+        <version>1.9.0.0</version> 
         <url>https://github.com/WebSallyOne/DoctorVet/raw/CurrentVersion/DoctorVet.exe</url> 
         <fileName>DoctorVet.exe</fileName> 
-        <md5>19933f133d11b3d60aae1baf99ee1a87</md5>
-        <description>Возможность работать с врачами.</description> 
+        <md5>b8d16044b9ff999abfe2b6e96d29717c</md5>
+        <description>Исправлены баги.</description> 
         <launchArgs></launchArgs> 
     </update> 
 </sharpUpdate>
