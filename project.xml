@@ -1,10 +1,10 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appID="DoctorVet"> 
-        <version>2.6.0.0</version> 
+        <version>2.7.0.0</version> 
         <url>https://github.com/WebSallyOne/DoctorVet/raw/CurrentVersion/DoctorVet.exe</url> 
         <fileName>DoctorVet.exe</fileName> 
-        <md5>f9001a2033abb6cb8d89f77af4e7c113</md5>
+        <md5>0603ddd4b5146fe3ed0f26507cd608a9</md5>
         <description>Исправлены баги.</description> 
         <launchArgs></launchArgs> 
     </update> 
