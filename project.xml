@@ -1,11 +1,11 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appID="DoctorVet"> 
-        <version>2.13.0.0</version> 
+        <version>2.14.0.0</version> 
         <url>https://github.com/WebSallyOne/DoctorVet/raw/CurrentVersion/DoctorVet.exe</url> 
         <fileName>DoctorVet.exe</fileName> 
-        <md5>f03f026e27f8b7e4e35d93eba0ce244b</md5>
-        <description>Исправлен баг с количеством медикаментов.</description> 
+        <md5>baddeb3f2b97c944fbe64f62f4c75e38</md5>
+        <description>WaitForm заменён на курсор ожидания.</description> 
         <launchArgs></launchArgs> 
     </update> 
 </sharpUpdate>
